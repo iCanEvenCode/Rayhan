@@ -1,0 +1,10 @@
+{
+    "name": "Rayhan",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Rayhan.xml",
+    "author": "iCanEvenCode",
+    "minimum_firmware_version": 42
+}
